@@ -16,4 +16,4 @@ TODO LIST
 
 See it live at
 -------------------------------
-http://vacations.evercoding.com/
+http://vacations.evercoding.com
